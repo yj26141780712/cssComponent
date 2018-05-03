@@ -1,0 +1,173 @@
+.tr {
+  height: 25px;
+}
+.tr > td {
+  line-height: 25px;
+  overflow: hidden;
+  border-width: 0 1px 1px 0;
+  border-style: dotted;
+  border-color: #ccc;
+  padding: 0;
+  margin: 0;
+}
+.tr > td > div {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+  height: 18px;
+  font-size: 12px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.tddiv {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+}
+.datagird-view {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+.datagird-view1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+.datagird-view1 > .datagird-header > .datagird-header-inner {
+  background: #7149cd;
+}
+.datagird-view1 > .datagird-header > .datagird-header-inner > .datagird-htable {
+  table-layout: fixed;
+  margin: 0;
+}
+.datagird-view1 > .datagird-header > .datagird-header-inner > .datagird-htable tr {
+  height: 25px;
+}
+.datagird-view1 > .datagird-header > .datagird-header-inner > .datagird-htable tr > td {
+  line-height: 25px;
+  overflow: hidden;
+  border-width: 0 1px 1px 0;
+  border-style: dotted;
+  border-color: #ccc;
+  padding: 0;
+  margin: 0;
+}
+.datagird-view1 > .datagird-header > .datagird-header-inner > .datagird-htable tr > td > div {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+  height: 18px;
+  font-size: 12px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.datagird-view1 > .datagird-body {
+  background: #af99e3;
+  margin-bottom: 25px;
+}
+.datagird-view1 > .datagird-body > .datagird-body-inner {
+  background: #7149cd;
+}
+.datagird-view1 > .datagird-body > .datagird-body-inner > .datagird-btable {
+  table-layout: fixed;
+  margin: 0;
+}
+.datagird-view1 > .datagird-body > .datagird-body-inner > .datagird-btable tr {
+  height: 25px;
+}
+.datagird-view1 > .datagird-body > .datagird-body-inner > .datagird-btable tr > td {
+  line-height: 25px;
+  overflow: hidden;
+  border-width: 0 1px 1px 0;
+  border-style: dotted;
+  border-color: #ccc;
+  padding: 0;
+  margin: 0;
+}
+.datagird-view1 > .datagird-body > .datagird-body-inner > .datagird-btable tr > td > div {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+  height: 18px;
+  font-size: 12px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.datagird-view1 > .datagird-footer {
+  background: #7149cd;
+}
+.datagird-view2 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+}
+.datagird-view2 > .datagird-header > .datagird-header-inner {
+  background: #7149cd;
+}
+.datagird-view2 > .datagird-header > .datagird-header-inner > .datagird-htable {
+  margin: 0;
+}
+.datagird-view2 > .datagird-header > .datagird-header-inner > .datagird-htable tr {
+  height: 25px;
+}
+.datagird-view2 > .datagird-header > .datagird-header-inner > .datagird-htable tr > td {
+  line-height: 25px;
+  overflow: hidden;
+  border-width: 0 1px 1px 0;
+  border-style: dotted;
+  border-color: #ccc;
+  padding: 0;
+  margin: 0;
+}
+.datagird-view2 > .datagird-header > .datagird-header-inner > .datagird-htable tr > td > div {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+  height: 18px;
+  font-size: 12px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.datagird-view2 > .datagird-body {
+  overflow: auto;
+  background: #af99e3;
+}
+.datagird-view2 > .datagird-body > .datagird-body-inner {
+  background: #7149cd;
+}
+.datagird-view2 > .datagird-body > .datagird-body-inner > .datagird-btable {
+  margin: 0;
+}
+.datagird-view2 > .datagird-body > .datagird-body-inner > .datagird-btable tr {
+  height: 25px;
+}
+.datagird-view2 > .datagird-body > .datagird-body-inner > .datagird-btable tr > td {
+  line-height: 25px;
+  overflow: hidden;
+  border-width: 0 1px 1px 0;
+  border-style: dotted;
+  border-color: #ccc;
+  padding: 0;
+  margin: 0;
+}
+.datagird-view2 > .datagird-body > .datagird-body-inner > .datagird-btable tr > td > div {
+  margin: 0;
+  padding: 0 4px;
+  line-height: 18px;
+  height: 18px;
+  font-size: 12px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.datagird-view2 > .datagird-footer {
+  background: #7149cd;
+}
+.datagird-btable,
+.datagird-htable {
+  border-collapse: separate;
+  border-spacing: 0;
+}
